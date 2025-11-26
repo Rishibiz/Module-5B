@@ -1,5 +1,4 @@
 # Ex 5a:NumPy Program:Variance of a NumPy Array
-
 ## Aim
 To write a NumPy program that reads a 2D array from the user and computes its variance.
 
