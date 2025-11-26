@@ -2,7 +2,6 @@
 
 ## Aim
 To write a NumPy program to compute the sum of the last column of a given NumPy array.
-
 ## Algorithm
 1) Start the program.
 2) Read the 2D array input from the user using eval().
