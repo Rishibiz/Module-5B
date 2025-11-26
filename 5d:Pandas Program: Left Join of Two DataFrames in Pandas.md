@@ -1,5 +1,4 @@
 # Ex 5d:Pandas Program: Left Join of Two DataFrames in Pandas
-
 ## AIM
 To write a Python Pandas program to perform a left join on two DataFrames using keys from the left DataFrame only.
 
