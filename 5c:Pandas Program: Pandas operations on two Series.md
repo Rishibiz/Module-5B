@@ -2,7 +2,6 @@
 
 ## Aim
 To write a Python Pandas program to perform addition and subtraction on two user-given Series.
-
 ## Algorithm
 1) Start the program.
 2) Read the first list from the user using eval().
