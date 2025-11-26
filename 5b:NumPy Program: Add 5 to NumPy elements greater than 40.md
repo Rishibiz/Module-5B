@@ -1,5 +1,4 @@
 # Ex 5b:NumPy Program: Add 5 to NumPy elements greater than 40
-
 ## Aim
 To write a NumPy program that adds 5 to all elements of an array that are greater than 40.
 
